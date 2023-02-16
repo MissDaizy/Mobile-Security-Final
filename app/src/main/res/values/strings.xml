@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DetectBluetoothDevices</string>
+    <string name="preference_file_key">shared_pref</string>
+    <string name="is_show_message">isShowMessage</string>
+    <string name="showMessage">\"Manually allow both permissions: Location and Nearby.\"</string>
+    <string name="device_name">DEVICE_NAME</string>
+    <string name="device_preview">Device:</string>
+    <string name="distance">DISTANCE</string>
+    <string name="distance_preview">Distance:</string>
+    <string name="distanceMessage">m from you.</string>
+</resources>
